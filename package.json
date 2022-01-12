@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Fernandopinage/NodeJS-API-REST#readme",
   "dependencies": {
     "body-parser": "^1.19.1",
+    "config": "^3.3.7",
     "express": "^4.17.2",
     "sequelize": "^6.13.0"
   }
